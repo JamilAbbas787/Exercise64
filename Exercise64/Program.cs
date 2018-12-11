@@ -51,19 +51,4 @@ namespace Exercise64
             Console.ReadKey();
         }
     }
-
-    class Validator
-    {
-
-        public bool IsInt(string userInput)
-        {
-            if (int.TryParse(userInput, out int numberValid) )
-            {
-                return true;
-            }
-
-            return false;
-        }
-
-    }
 }
