@@ -1,0 +1,7 @@
+C:\Users\jamil\Desktop\GrandCircus\Exercise64\Exercise64\bin\Debug\Exercise64.exe.config
+C:\Users\jamil\Desktop\GrandCircus\Exercise64\Exercise64\bin\Debug\Exercise64.exe
+C:\Users\jamil\Desktop\GrandCircus\Exercise64\Exercise64\bin\Debug\Exercise64.pdb
+C:\Users\jamil\Desktop\GrandCircus\Exercise64\Exercise64\obj\Debug\Exercise64.csprojAssemblyReference.cache
+C:\Users\jamil\Desktop\GrandCircus\Exercise64\Exercise64\obj\Debug\Exercise64.csproj.CoreCompileInputs.cache
+C:\Users\jamil\Desktop\GrandCircus\Exercise64\Exercise64\obj\Debug\Exercise64.exe
+C:\Users\jamil\Desktop\GrandCircus\Exercise64\Exercise64\obj\Debug\Exercise64.pdb
